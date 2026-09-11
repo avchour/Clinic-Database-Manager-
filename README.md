@@ -14,8 +14,7 @@ A relational database that records patient visits, assigned doctors and rooms, p
 MySQL
 
 ## Entities
-[Final entities]
-
+patient, doctors, rooms, payments, visits, and medicines supplied.
 ## Deliverables
 - ERD PDF
 - DDL SQL
