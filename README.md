@@ -9,12 +9,12 @@
 
 ## Project Objective
 Clinic Daily Patient Management System
-A relational database that records patient visits, assigned doctors and rooms, payments, and medicines supplied during daily clinic operations. (clinic managment)
+A relational database that records patient visits, assigned doctors and rooms, payments, and prescription during daily clinic operations. (clinic managment)
 ## Database
 MySQL
 
 ## Entities
-patient, doctors, rooms, payments, visits, and medicines supplied.
+patient, doctors, rooms, payments, visits, and prescription.
 ## Deliverables
 - ERD PDF
 - DDL SQL
